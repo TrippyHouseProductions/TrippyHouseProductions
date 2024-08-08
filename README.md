@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deathflesh
+- 👋 Hi, I’m @TrippyHouse
 - 👀 I’m interested in ethnical hacking and cyber security
 - 🌱 I’m currently learning Python & linux kali
 - 💞️ I’m looking to collaborate on ...

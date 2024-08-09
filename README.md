@@ -13,6 +13,10 @@
 
 <h6 align="center">Front-end Developer | Software Developer | Brand Designer</h6>
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=TrippyHouseProductions&label=Profile%20views&color=0047AB&style=flat?" alt="TrippyHouseProductions" height=25px, width=100px/>
+</p>
+
 ---
 
 <h4 align="left">Languages and Tools</h4>
@@ -73,15 +77,15 @@
 
 <div align="center">
   <a href="mailto:hirushagunasena@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=6e5494&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0e1117&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   
   <a href="mailto:hirushagunasena@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=bd2c00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0e1117&logoColor=red&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   
   <a href="mailto:hirushagunasena@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=4078c0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0e1117&logoColor=blue&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 

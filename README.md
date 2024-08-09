@@ -1,14 +1,12 @@
-<div align="center">
-  <img height="150" width="150" src="https://i.imgflip.com/8zq44n.gif"  />
-</div>
+<a href="#">
+  <div align="center">
+    <img height="100%" width="100%" src="ASSETS/banner.png"  />
+  </div>
+</a>
 
 ###
 
-<h1 align="center">Trippy House Productions</h1>
-
-###
-
-<h5 align="center">by Hirusha Gunasena</h5>
+<h3 align="center">By Hirusha Gunasena</h3>
 
 ###
 

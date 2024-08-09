@@ -19,6 +19,11 @@
 
 ---
 
+<h3 align="left">About Me</h3>
+<br>
+
+---
+
 <h3 align="left">Account Statistics</h3>
 
 ###

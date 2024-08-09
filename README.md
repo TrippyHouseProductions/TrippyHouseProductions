@@ -4,7 +4,6 @@
   </div>
 </a>
 
-
 ###
 
 <h3 align="center">By Hirusha Gunasena</h3>
@@ -31,14 +30,14 @@
 
 <table>
   <tr>
-    <th style="border: 1px solid white; padding: 8px; background-color: #f0f0f0;">
+    <th>
 	    <a href="#">
 		    <img src="https://github-readme-stats.vercel.app/api?username=TrippyHouseProductions&title_color=6FDA44&text_color=e4e2dd&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="100%" />
 	    </a>
     </th>
-    <th style="border: 1px solid white; padding: 8px; background-color: #f0f0f0;">
+    <th>
 	    <a href="#">
-		    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrippyHouseProductions&title_color=6FDA44&text_color=e4e2dd&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="100%" />
+		    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrippyHouseProductions&title_color=6FDA44&text_color=e4e2dd&show_icons=true&icon_color=6FDA44&&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="100%" />
 	    </a>
     </th>
   </tr>
@@ -100,13 +99,24 @@
     <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
   </div>
 
-###
-
-<h3 align="center">Contact Us</h3>
+<br>
 
 ---
 
-<div align="center">
+<h3 align="center">Contact Us</h3>
+
+<p align="center">
+	<i>Sometimes, the only way to find yourself is to lose yourself in the wild.</i>
+	<br>
+	<br>
+	<a target="_blank" href="https://www.linkedin.com/in/hirusha-gunasena-262a78267/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+	<a target="_blank" href="mailto:hirushagunasena@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+	<!--<a target="_blank" href="https://medium.com/@sbirunthaban007"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>-->
+	<a target="_blank" href="https://twitter.com/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+	<br>
+</p>
+
+<!--<div align="center">
   <a href="mailto:hirushagunasena@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0e1117&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -118,6 +128,6 @@
   <a href="mailto:hirushagunasena@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0e1117&logoColor=blue&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
+</div>-->
 
 ###

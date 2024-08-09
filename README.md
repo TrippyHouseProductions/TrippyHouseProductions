@@ -19,12 +19,18 @@
 
 ---
 
+<h3 align="left">Account Statistics</h3>
+
+###
+
 <div align=center>
-		<img src="https://github-readme-stats.vercel.app/api?username=TrippyHouseProductions&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=TrippyHouseProductions&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+		<img src="https://github-readme-stats.vercel.app/api?username=TrippyHouseProductions&title_color=6FDA44&text_color=e4e2dd&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=TrippyHouseProductions&title_color=6FDA44&text_color=e4e2dd&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
 </div>
 
-<h4 align="left">Languages and Tools</h4>
+<br>
+
+<h3 align="left">Languages and Tools</h3>
 
 ###
 

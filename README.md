@@ -32,12 +32,12 @@
   <tr>
     <th>
 	    <a href="#">
-		    <img src="https://github-readme-stats.vercel.app/api?username=TrippyHouseProductions&title_color=6FDA44&text_color=e4e2dd&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="100%" />
+		    <img src="https://github-readme-stats.vercel.app/api?username=TrippyHouseProductions&title_color=6FDA44&text_color=E4E2DD&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="100%" />
 	    </a>
     </th>
     <th>
 	    <a href="#">
-		    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrippyHouseProductions&title_color=6FDA44&text_color=e4e2dd&show_icons=true&icon_color=6FDA44&&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="100%" />
+		    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrippyHouseProductions&show_icons=true&icon_color=6FDA44&theme=dark&background=0E1117&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44&title_color=6FDA44&text_color=E4E2DD&hide_border=true" alt="GitHub Streak Stats" height="100%" />
 	    </a>
     </th>
   </tr>

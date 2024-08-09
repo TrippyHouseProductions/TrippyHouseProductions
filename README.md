@@ -14,7 +14,8 @@
 <h6 align="center">Front-end Developer | Software Developer | Brand Designer</h6>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=TrippyHouseProductions&label=Profile%20views&color=0047AB&style=flat?" alt="TrippyHouseProductions" height=25px, width=100px/>
+	<a href="#"><img src="https://komarev.com/ghpvc/?username=TrippyHouseProductions&label=Profile%20views&color=0047AB&style=flat?" alt="TrippyHouseProductions" height=25px, width=100px/>
+	</a>
 </p>
 
 ---
@@ -31,10 +32,14 @@
 <table>
   <tr>
     <th style="border: 1px solid white; padding: 8px; background-color: #f0f0f0;">
-	    <img src="https://github-readme-stats.vercel.app/api?username=TrippyHouseProductions&title_color=6FDA44&text_color=e4e2dd&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="100%" />
+	    <a href="#">
+		    <img src="https://github-readme-stats.vercel.app/api?username=TrippyHouseProductions&title_color=6FDA44&text_color=e4e2dd&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="100%" />
+	    </a>
     </th>
     <th style="border: 1px solid white; padding: 8px; background-color: #f0f0f0;">
-	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrippyHouseProductions&title_color=6FDA44&text_color=e4e2dd&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="100%" />
+	    <a href="#">
+		    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrippyHouseProductions&title_color=6FDA44&text_color=e4e2dd&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="100%" />
+	    </a>
     </th>
   </tr>
   <!--<tr>
@@ -42,7 +47,6 @@
     <td style="border: 1px solid white; padding: 8px;">Row 1, Cell 2</td>
   </tr>-->
 </table>
-
 
 <br>
 

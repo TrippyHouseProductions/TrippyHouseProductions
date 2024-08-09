@@ -7,17 +7,17 @@
 ###
 
 <h3 align="center">By Hirusha Gunasena</h3>
+
 ###
 
 <h6 align="center">Front-end Developer | Software Developer | Brand Designer</h6>
 
-###
+---
 
 <h4 align="left">Languages and Tools</h4>
 
 ###
 
-<a href="#">
   <div align="left">
     <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
     <img width="12" />
@@ -63,13 +63,12 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
   </div>
-</a>
 
 ###
 
 <h4 align="center">Contact Us</h4>
 
-###
+---
 
 <div align="center">
   <a href="mailto:hirushagunasena@gmail.com" target="_blank">

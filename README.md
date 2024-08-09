@@ -1,4 +1,8 @@
-![Image Description](ASSETS/banner-trimmed.png)
+<a href="#">
+  <div align="center">
+    <img  height="100%" width="100%" src="ASSETS/banner-trimmed.png"  />
+  </div>
+</a>
 
 
 ###

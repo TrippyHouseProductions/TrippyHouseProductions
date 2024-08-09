@@ -7,7 +7,6 @@
 ###
 
 <h3 align="center">By Hirusha Gunasena</h3>
-
 ###
 
 <h6 align="center">Front-end Developer | Software Developer | Brand Designer</h6>

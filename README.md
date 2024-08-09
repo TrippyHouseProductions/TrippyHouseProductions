@@ -82,7 +82,7 @@
 
 ###
 
-<h4 align="center">Contact Us</h4>
+<h3 align="center">Contact Us</h3>
 
 ---
 

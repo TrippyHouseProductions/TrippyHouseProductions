@@ -123,7 +123,7 @@
 <h3 align="center">Contact Us</h3>
 
 <p align="center">
-	<i>Sometimes, the only way to find yourself is to lose yourself in the wild.</i>
+	<i>"Learn every day; the knowledge you gain is never wasted."</i>
 	<br>
 	<br>
 	<a target="_blank" href="https://www.linkedin.com/in/hirusha-gunasena-262a78267/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&style=plastic" height=25px></img></a>

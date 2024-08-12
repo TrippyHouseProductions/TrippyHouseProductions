@@ -47,7 +47,7 @@
   <tr>
     <th>
 	    <a href="#">
-		    <img src="https://github-readme-stats.vercel.app/api?username=TrippyHouseProductions&title_color=6FDA44&text_color=E4E2DD&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="100%" />
+		    <img src="https://github-readme-stats.vercel.app/api?username=TrippyHouseProductions&title_color=6FDA44&text_color=E4E2DD&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark&bg_color=0E1117&hide_border=true" alt="GitHub Stats" height="100%" />
 	    </a>
     </th>
     <th>

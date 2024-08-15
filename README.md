@@ -129,7 +129,7 @@
 	<a target="_blank" href="https://www.linkedin.com/in/hirusha-gunasena-262a78267/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&style=plastic" height=25px></img></a>
 	<a target="_blank" href="mailto:hirushagunasena@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&style=plastic" height=25px></img></a>
 	<!--<a target="_blank" href="https://medium.com/@sbirunthaban007"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>-->
-	<a target="_blank" href="https://twitter.com/"><img src="https://img.shields.io/badge/-Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white&style=plastic" height=25px></img></a>
+	<a target="_blank" href="https://instagram.com/"><img src="https://img.shields.io/badge/-Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white&style=plastic" height=25px></img></a>
 	<br>
 </p>
 

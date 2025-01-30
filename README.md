@@ -22,11 +22,11 @@
 <h3 align="left">About Me</h3>
 
 - 🎓 **Computer Science Undergraduate** at the Asian Pacific Institute of Information Technology
-- 💻 Aspiring **Brand Designer** and **Web Developer** with a passion to create artistic content
+- 💻 **Brand Designer** and **Web Developer** with a passion to create artistic content
 - 🎶 **Music Enthusiast** who enjoys composing and exploring the intersection of art and technology
 - 🌱 Currently Learning: **Mobile Application Development** with the touch of UI/UX
 - 🚀 Working on: **Automating Audio Mixing** using IoT technologies
-- 📫 Connect with Me: Using **[Gmail]()** or **[Linkedin]()**
+- 📫 Connect with Me: Using **[Gmail](mailto:hirushagunasena@gmail.com)** or **[Linkedin](www.linkedin.com/in/hirusha-gunasena)**
 - 🌐 Exploring: The **latest trends in technology** and how they **can shape the future**
 
 

@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="center">Front-end Developer | Software Developer | Brand Designer</h6>
+<h6 align="center">Front-end Developer | UI/UX Designer | Brand Designer</h6>
 
 <p align="center"> 
 	<a href="#"><img src="https://komarev.com/ghpvc/?username=TrippyHouseProductions&label=Profile%20views&color=0047AB" alt="TrippyHouseProductions" height=25px, width=100px/>
